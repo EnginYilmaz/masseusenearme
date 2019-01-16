@@ -1,0 +1,14 @@
+{
+    "editor.parameterHints.enabled": false,
+    "php.suggest.basic": false,
+    "editor.suggest.filterGraceful": false,
+    "workbench.tips.enabled": false,
+    "html.suggest.html5": false,
+    "javascript.suggest.autoImports": false,
+    "javascript.suggest.names": false,
+    "typescript.suggest.paths": false,
+    "typescript.suggest.enabled": false,
+    "typescript.suggest.autoImports": false,
+    "javascript.suggest.paths": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+}
